@@ -16,6 +16,8 @@ tags: 任务
 
 ## 学习使用 Git
 
+- https://git-scm.com/book/zh
+
 - https://www.runoob.com/git/git-tutorial.html
 
 - https://www.liaoxuefeng.com/wiki/896043488029600
