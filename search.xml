@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>学习Git</title>
+      <link href="/task-git-learning/"/>
+      <url>/task-git-learning/</url>
+      
+        <content type="html"><![CDATA[<h2 id="注册账号"><a class="markdownIt-Anchor" href="#注册账号"></a> 注册账号</h2><ul><li><p><a href="https://github.com/">GitHub</a></p></li><li><p><a href="https://gitee.com/">Gitee</a></p></li></ul><span id="more"></span><blockquote><p><a href="https://cloud.tencent.com/developer/article/1487508">参考</a></p></blockquote><h2 id="学习使用-git"><a class="markdownIt-Anchor" href="#学习使用-git"></a> 学习使用 Git</h2><ul><li><p><a href="https://git-scm.com/book/zh">https://git-scm.com/book/zh</a></p></li><li><p><a href="https://www.runoob.com/git/git-tutorial.html">https://www.runoob.com/git/git-tutorial.html</a></p></li><li><p><a href="https://www.liaoxuefeng.com/wiki/896043488029600">https://www.liaoxuefeng.com/wiki/896043488029600</a></p></li><li><p><a href="http://rogerdudler.github.io/git-guide/index.zh.html">http://rogerdudler.github.io/git-guide/index.zh.html</a></p></li></ul><h2 id="考核"><a class="markdownIt-Anchor" href="#考核"></a> 考核</h2><ul><li><p><code>fork</code> 仓库 <a href="https://github.com/cqut-ngu/task_git_learning">https://github.com/cqut-ngu/task_git_learning</a></p></li><li><p>添加你自己的代码到 <code>fork</code> 的仓库</p></li><li><p>最后到源仓库创建 <code>pull requests</code></p></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 任务 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
